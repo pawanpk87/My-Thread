@@ -1,0 +1,1 @@
+The Thread Pool pattern involves maintaining a pool of worker threads that can be reused to execute tasks. Instead of creating a new thread for each task, tasks are submitted to the pool, which assigns them to available threads. This approach reduces the overhead of thread creation and improves resource management.
