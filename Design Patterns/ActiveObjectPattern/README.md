@@ -12,4 +12,4 @@ The Active Object Pattern is a design pattern that decouples method execution fr
 
 * Thread: A separate thread that processes method requests in the background, allowing the main thread to continue with other tasks.
 
-![Screenshot 2024-08-26 001627](https://github.com/user-attachments/assets/87c0e76c-e48b-4503-9f15-1b28ea37c0b8)
+![Screenshot 2025-04-14 at 12 57 23 AM](https://github.com/user-attachments/assets/6731c059-6752-4d77-b7da-ba10a05b778e)
