@@ -1,0 +1,1 @@
+Scheduler Pattern is used to manage and execute tasks at specified times or intervals. It is commonly employed in systems where tasks need to be executed periodically or at specific times, such as in cron jobs, job scheduling systems, or task management systems.

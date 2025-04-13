@@ -1,0 +1,1 @@
+Thread-Per-Request Pattern design pattern creates a new thread for each incoming request or task. 
